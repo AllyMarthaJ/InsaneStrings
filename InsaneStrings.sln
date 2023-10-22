@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsaneStrings", "InsaneStrings\InsaneStrings.csproj", "{BD18B7ED-376F-4825-9BB9-17909670954B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsaneStringTests", "InsaneStringTests\InsaneStringTests.csproj", "{D6746408-CA51-432C-ADF8-0AC0BD7D2FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD18B7ED-376F-4825-9BB9-17909670954B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD18B7ED-376F-4825-9BB9-17909670954B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD18B7ED-376F-4825-9BB9-17909670954B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD18B7ED-376F-4825-9BB9-17909670954B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6746408-CA51-432C-ADF8-0AC0BD7D2FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6746408-CA51-432C-ADF8-0AC0BD7D2FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6746408-CA51-432C-ADF8-0AC0BD7D2FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6746408-CA51-432C-ADF8-0AC0BD7D2FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
